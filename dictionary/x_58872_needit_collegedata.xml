@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="collegedata" max_length="40" name="x_58872_needit_collegedata" sizeclass="311" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=College Name" label="College Name" max_length="81" name="u_college_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Courses" label="Courses" max_length="40" name="u_courses" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=District" label="District" max_length="40" name="u_district" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=F" label="F" max_length="40" name="u_f" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=G" label="G" max_length="40" name="u_g" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=H" label="H" max_length="40" name="u_h" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=I" label="I" max_length="40" name="u_i" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=J" label="J" max_length="40" name="u_j" type="string"/>
+        <element attributes="import_attribute_name=Number of Seats" label="Number of Seats" max_length="40" name="u_number_of_seats" type="integer"/>
+        <element attributes="import_attribute_name=Serial No" label="Serial No" max_length="40" name="u_serial_no" type="integer"/>
+    </element>
+</database>
